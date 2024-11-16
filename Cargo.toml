@@ -1,0 +1,9 @@
+[package]
+name = "flecs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+flecs_ecs = "0.1.1"
+raylib = "5.0.2"
+# flecs = "0.1.5"
